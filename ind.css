@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    width: 90%;
+    padding: 0 70px 50px 70px ;
+
+}
+
+.head {
+    display: flex;
+}
+
+.logo img{
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 0 0 0 ;
+}
+
+.heading {
+    margin: 5px 20% 5px  ;
+
+}
+
+.nav-bar li {
+    display: inline;
+   padding: 70px;
+}
+
+.content {
+    background-color: #aa99b4;
+    border-radius: 10px;
+    padding-left: 15px;
+
+    
+}
+
+h1 {
+    color: hwb(0 0% 100%);
+    text-align: center;
+
+}
+
+h2 {
+    padding-left: 15px;
+}
+
+.para {
+    display: flex;
+
+}
+
+p {
+    width: 550px;
+    padding: 10px;
+    
+    
+    
+}
+
+.para img {
+    margin: 15px 35px 25px 90px;
+    border-radius: 15px;
+    height: 300px;
+}
